@@ -1,6 +1,6 @@
 # **Node.js README Generator**
 ## Description 
-A simple application built in node.js used to create professional looking READMEs for repositories. Forked from my original GitHub account.
+A simple application built in node.js used to create professional looking READMEs for repositories.
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
